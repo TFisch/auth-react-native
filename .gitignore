@@ -2,6 +2,9 @@
 #
 .DS_Store
 
+#file to ignore
+src/api/api.js
+
 # Xcode
 #
 build/
